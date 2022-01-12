@@ -9,6 +9,6 @@ E caso você queira compor uma música, é só digitar as teclas na area de **Es
 
 ### Quais os passos
 
-[x] Layout
-[ ]
-[ ]
+- [x] Layout
+- [ ]
+- [ ]
